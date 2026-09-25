@@ -1,7 +1,9 @@
-git mv README.md Excel-Resources/README.md
-git mv Excel-Formulas-Basic-to-Advanced.pdf Excel-Resources/Excel-Formulas-Basic-to-Advanced.pdf
-git mv Google-Sheets-All-Formulas.pdf Excel-Resources/Google-Sheets-All-Formulas.pdf
+# 📊 Excel Formulas: Basic to Advanced
 
-git add .
-git commit -m "Organize Excel resources"
-git push
+📘 A complete collection of Excel formulas from **Basic to Advanced** level.
+
+🧮 Learn formulas with simple explanations and practical examples.
+
+📈 Useful for **Data Analysis, Reporting, and everyday Excel work**.
+
+🚀 Build your Excel skills step by step, from basic formulas to advanced functions.
